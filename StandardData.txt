@@ -1,0 +1,1 @@
+{"ClassBillede" : "productLargeImg" , "ClassText" : "productItemTitle" , "XpathText" : "//*[@id="productList"]/li[2]/div/div[3]/div[3]/a" , "XpathBillede" : "//*[@id="productSlider"]/ul[1]/li/a/span/img"}
